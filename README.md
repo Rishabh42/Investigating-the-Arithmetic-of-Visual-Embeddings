@@ -1,4 +1,5 @@
 # Investigating-the-Arithmetic-of-Visual-Embeddings
+This research delves into the influence of various visual pre-training paradigms, including self-supervised and language supervision, on the properties of image embeddings. Drawing inspiration from the well-established NLP example of semantic arithmetic (e.g., "King - Male + Woman = Queen"), we aim to assess how different pre-training methodologies affect the geometric properties of image embeddings. Given the inherent diversity across model architectures, it is anticipated that the resulting embeddings will exhibit distinct properties. Such an investigation is of paramount importance in multi-modal spaces where both textual and visual data are integrated, as it contributes to a deeper understanding of geometric relationships and facilitates vector-oriented reasoning. Through a comprehensive examination, this study endeavors to shed light on the intricate interplay between pre-training paradigms and image embedding properties, thus paving the way for enhanced multi-modal learning techniques.
 
 Image Dataset : https://drive.google.com/drive/folders/1S5zIpY8Tqayh_ln810Xa1CQ0LJsEug2i?usp=drive_link
 
