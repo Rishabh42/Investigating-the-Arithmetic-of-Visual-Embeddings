@@ -12,6 +12,7 @@ Image Dataset : https://drive.google.com/drive/folders/1S5zIpY8Tqayh_ln810Xa1CQ0
 | evaluate-arithmetic-properties.ipynb | Helper functions for evaluating arithmetic properties |
 | experiments.ipynb | Contains the experiments performed using different models |
 | image_downloader.ipynb | script used to download images for the dataset |
+| research findings.pdf | Research paper summarizing the study performed |
 
 
 ## Models used
